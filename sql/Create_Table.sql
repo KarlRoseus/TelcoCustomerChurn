@@ -1,6 +1,3 @@
-CREATE DATABASE IF NOT EXISTS telcoCust;
-USE telcoCust;
-
 CREATE TABLE telco_customers (
   customer_id VARCHAR(50),
   gender VARCHAR(10),
