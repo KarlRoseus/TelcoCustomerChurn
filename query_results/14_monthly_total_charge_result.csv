@@ -1,0 +1,5 @@
+charge_type,churn_status,min_charge,avg_charge,max_charge
+"Monthly Charges",Yes,18.85,74.44,118.35
+"Monthly Charges",No,18.25,61.27,118.75
+"Total Charges",Yes,18.85,1531.8,8684.8
+"Total Charges",No,18.8,2550.79,8672.45

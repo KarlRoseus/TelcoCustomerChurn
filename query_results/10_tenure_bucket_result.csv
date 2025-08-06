@@ -1,0 +1,5 @@
+tenure_group,total_customers,percent_of_total,churned_customers,churn_rate_percentage
+"0–3 months",1051,14.92,597,56.80
+"4–12 months",1135,16.12,440,38.77
+"13–24 months",1024,14.54,294,28.71
+"25+ months",3833,54.42,538,14.04

@@ -1,0 +1,7 @@
+Phone_Service,Internet_Service,total_customers,churned_customers,churn_rate_percentage
+Yes,"Fiber Optic",3035,1236,40.72
+Yes,Cable,601,159,26.46
+No,DSL,453,116,25.61
+No,Cable,229,54,23.58
+Yes,DSL,1199,191,15.93
+Yes,None,1526,113,7.40

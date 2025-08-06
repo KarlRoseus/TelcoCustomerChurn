@@ -1,0 +1,5 @@
+Internet_Service,total_customers,percent_of_total,churned_customers,churn_rate_percentage
+DSL,1652,23.46,307,18.58
+"Fiber Optic",3035,43.09,1236,40.72
+Cable,830,11.78,213,25.66
+None,1526,21.67,113,7.40

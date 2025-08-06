@@ -1,0 +1,4 @@
+Contract,total_customers,percent_of_total,churned_customers,churn_rate_percentage
+Month-to-Month,3610,51.26,1655,45.84
+"One Year",1550,22.01,166,10.71
+"Two Year",1883,26.74,48,2.55
