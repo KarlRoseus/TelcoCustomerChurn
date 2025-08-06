@@ -1,0 +1,62 @@
+CREATE DATABASE IF NOT EXISTS telcoCust;
+USE telcoCust;
+
+CREATE TABLE telco_customers (
+  customer_id VARCHAR(50),
+  gender VARCHAR(10),
+  age INT,
+  under_30 VARCHAR(5),
+  senior_citizen VARCHAR(5),
+  married VARCHAR(5),
+  dependents VARCHAR(5),
+  number_of_dependents INT,
+  state VARCHAR(50),
+  city VARCHAR(50),
+  zip_code INT,
+  population INT,
+  quarter VARCHAR(20),
+  referred_a_friend VARCHAR(10),
+  number_of_referrals INT,
+  tenure_in_months INT,
+  offer VARCHAR(50),
+  phone_service VARCHAR(10),
+  avg_monthly_long_distance_charges FLOAT,
+  multiple_lines VARCHAR(10),
+  internet_service VARCHAR(20),
+  unlimited_data VARCHAR(10),
+  contract VARCHAR(20),
+  paperless_billing VARCHAR(10),
+  payment_method VARCHAR(50),
+  monthly_charge FLOAT,
+  total_charges FLOAT,
+  total_refunds FLOAT,
+  total_extra_data_charges FLOAT,
+  total_long_distance_charges FLOAT,
+  total_revenue FLOAT,
+  satisfaction_score INT,
+  customer_status VARCHAR(20),
+  churn_label VARCHAR(10),
+  churn_score INT,
+  cltv INT,
+  churn_category VARCHAR(50),
+  churn_reason VARCHAR(100)
+);
+
+SET GLOBAL local_infile = 1;
+
+LOAD DATA LOCAL INFILE 'C:/Users/krose/Downloads/telcoCust.csv'
+INTO TABLE telco_customers
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"' 
+LINES TERMINATED BY '\r\n'
+IGNORE 1 ROWS;
+
+SELECT COUNT(*) FROM telco_customers;
+SELECT * FROM telco_customers LIMIT 10;
+
+
+
+
+
+
+
