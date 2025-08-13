@@ -11,7 +11,7 @@
 ## Background and Overview
 something
 ## Dataset Overview
-![Banner](Elements/Demographics.png)
+![Banner](Elements/D2.png)
 ## Executive Summary
 ## Key Insights
 ## Insights to Action
