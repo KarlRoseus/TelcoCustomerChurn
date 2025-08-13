@@ -26,9 +26,15 @@ something
 | Senior Citizen     |          1142  |              476  |          41.68 |
 | Non-Senior Citizen |          5901  |             1393  |          23.61 |
 
+
+### Contract and Tenure
+![Banner](Elements/Contract_Type.png)
+
 ### Service Types
 ![Banner](Elements/Services.png)
 
+### Payment
+![Banner](Elements/Payment_Method.png)
 
 
 ## Executive Summary
