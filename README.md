@@ -9,7 +9,16 @@
 - [Insights to Action](#recommendations)
 
 ## Background and Overview
-something
+Velynx is a fictional U.S.-based telecommunications provider offering broadband internet and phone (home and mobile) services. Velynx competes in a fast-moving market where customer loyalty is critical to long-term success.
+
+Velynx is facing a growing challenge with customer churn, which threatens both revenue stability and future growth. This project analyzes demographic and service-related data to pinpoint the biggest churn drivers, focusing on broadband service types (DSL, Fiber Optic, Cable), data plan choices, contract structures, and payment methods, and applies these findings to develop data-driven recommendations aimed at improving customer retention.
+
+Insights from this analysis are grouped into the following key areas:
+- **Customer Demographics – How factors such as gender, age group, and dependent status influence churn.
+Service Types – Churn patterns across different internet service offerings.
+Contract and Payment Types – The role of contract length and payment method in customer retention.
+Tenure – How the length of time a customer has been with Velynx correlates with churn rates.
+
 ## Dataset Overview
 ## Executive Summary
 ## Key Insights
