@@ -11,8 +11,9 @@
 ## Background and Overview
 something
 ## Dataset Overview
-###Customer Distribution
+### Customer Demographics
 ![Banner](Elements/Demographics.png)
+
 
 | Category           | Total Customer | Churned Customers | Churn Rate (%) |
 |--------------------|---------------:|------------------:|---------------:|
@@ -24,6 +25,11 @@ something
 | No Dependents      |          5416  |             1763  |          32.55 |
 | Senior Citizen     |          1142  |              476  |          41.68 |
 | Non-Senior Citizen |          5901  |             1393  |          23.61 |
+
+### Service Types
+![Banner](Elements/Services.png)
+
+
 
 ## Executive Summary
 ## Key Insights
