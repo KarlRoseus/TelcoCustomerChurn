@@ -30,6 +30,9 @@ something
 ### Contract and Tenure
 ![Banner](Elements/Contract_Type.png)
 
+![Banner](Elements/Tenure_Bucket_Churn.png)
+
+
 ### Service Types
 ![Banner](Elements/Services.png)
 
