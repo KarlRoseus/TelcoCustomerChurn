@@ -11,6 +11,8 @@
 ## Background and Overview
 something
 ## Dataset Overview
+## Executive Summary
+## Key Insights
 ### Customer Demographics
 ![Banner](Elements/Demographics.png)
 
@@ -39,7 +41,6 @@ something
 ### Payment
 ![Banner](Elements/Payment_Method.png)
 
+## Insights to Action 
 
-## Executive Summary
-## Key Insights
-## Insights to Action
+
