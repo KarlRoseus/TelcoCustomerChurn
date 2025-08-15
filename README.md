@@ -32,7 +32,7 @@ The overall churn rate for Velynx stands at 26.54%. The analysis shows that seni
 
 ## Key Insights
 ### Customer Demographics
-
+![Customer Demographics](Elements/Demographics.png)
 **Customer Distribution (Graph)**
 - The customer base is nearly balanced in terms of gender:
   - Male: **50.48%**
