@@ -19,8 +19,8 @@ Insights from this analysis are grouped into the following key areas:
 - **Contract and Payment Types** – The role of contract length and payment method in customer retention.  
 - **Tenure** – How the length of time a customer has been with Velynx correlates with churn rates.  
 
-
 ## Dataset Overview
+The 
 ## Executive Summary
 ## Key Insights
 ### Customer Demographics
