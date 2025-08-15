@@ -23,6 +23,7 @@ Insights from this analysis are grouped into the following key areas:
 This analysis uses a dataset of 7,043 customers containing 38 variables covering demographic details, account information, and service usage. Each record includes whether the customer churned, as well as key attributes such as gender, age, marital and dependent status, broadband service type (DSL, Fiber Optic, Cable), data plan type, contract length, payment method, satisfaction score, churn score, and customer lifetime value (CLTV). This combination of data provides a comprehensive view of the factors that may influence customer churn.
 
 The dataset that was used can be found here [Kaggle Telco Customer Churn Data](https://www.kaggle.com/datasets/alfathterry/telco-customer-churn-11-1-3)
+
 Table columns can be found [here](sql/Create_Table.sql)
 
 ## Executive Summary
