@@ -27,6 +27,9 @@ The dataset that was used can be found here [Kaggle Telco Customer Churn Data](h
 Table columns can be found [here](sql/Create_Table.sql)
 
 ## Executive Summary
+### Summary
+The overall churn rate for Velynx stands at 26.54%. The analysis shows that senior citizens, customers without dependents, and single customers exhibit notably higher churn rates. Month-to-month contract holders churn at a much higher rate than those with one- or two-year agreements, while fiber optic users show higher churn compared to DSL and cable subscribers. Customers using electronic checks as their payment method are also more likely to leave. Addressing these high-risk groups with targeted, data-driven retention strategies could significantly improve customer loyalty and revenue stability.
+
 ## Key Insights
 ### Customer Demographics
 ![Banner](Elements/Demographics.png)
