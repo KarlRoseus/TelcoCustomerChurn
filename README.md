@@ -97,7 +97,7 @@ Fiber optic customers are nearly **2 times more likely** to churn than DSL custo
 - Electronic check customers are **over 2.5 times more likely** to churn compared to credit card customers (45.29% vs. 15.03%). This suggests that customers using electronic checks may represent a more price-sensitive or less loyal segment, making them a prime target for retention incentives.
 
 ## Insights to Action 
- **Target Senior Citizens with Retention Offers**  
+- **Target Senior Citizens with Retention Offers**  
   - Seniors churn at **41.68%**, far above the overall rate.  
   - Provide loyalty discounts, senior-friendly service plans, and implement early engagement strategies to            proactively address customer needs and mitigate the risk of churn before it occurs.
 
