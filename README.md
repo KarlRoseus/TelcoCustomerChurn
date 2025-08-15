@@ -63,15 +63,24 @@ The overall churn rate for Velynx stands at 26.54%. The analysis shows that seni
 - Gender appears to have little impact on churn, with similar rates for:
   - Males: **26.16%**
   - Females: **26.92%**
-- Senior citizens show the highest churn rate (**41.68%**), far exceeding non-senior customers (**23.61%**).
+- Senior citizens show the highest churn rate (**41.68%**), far exceeding non-senior customers (**23.61%**). They are **76% more likely** to churn more than non-seniors, making them a key focus for rentention initiatives. 
 - Customers without dependents churn at **32.55%**, compared to just **6.52%** for those with dependents.
 - Single customers experience a churn rate of **32.96%**, much higher than married customers (**19.66%**).
 
 ### Contract and Tenure
 ![Banner](Elements/Contract_Type.png)
 
+- Over half of the customer base (**51.26%**) are on month-to-month contracts, which have by far the highest churn rate (**45.84%**).
+- One-year contracts make up **22.01%** of customers and have a much lower churn rate (**10.71%**).
+- Two-year contracts account for **26.74%** of customers and show the lowest churn rate (**2.55%**).
+- This shows that longer contract commitments dramatically reduce churn.
+
 ![Banner](Elements/Tenure_Bucket_Churn.png)
 
+- Customers in the **0–3 months** group churn the most, with a rate of **56.80%**, despite being only **14.92%** of the customer base.
+- **4–12 months** tenure has a churn rate of **38.77%**.
+- Churn steadily drops as tenure increases: **28.71%** for **13–24 months**, and just **14.04%** for **25+ months**.
+- This trend suggests that improving early customer experience and onboarding could significantly improve retention.
 
 ### Service Types
 ![Banner](Elements/Services.png)
