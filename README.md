@@ -68,14 +68,12 @@ The overall churn rate for Velynx stands at 26.54%. The analysis shows that seni
 
 ### Contract and Tenure
 ![Banner](Elements/Contract_Type.png)
-
 - Over half of the customer base (**51.26%**) are on month-to-month contracts, which have by far the highest churn rate (**45.84%**).
 - One-year contracts make up **22.01%** of customers and have a much lower churn rate (**10.71%**).
 - Two-year contracts account for **26.74%** of customers and show the lowest churn rate (**2.55%**).
 - This shows that longer contract commitments dramatically reduce churn.
 
 ![Banner](Elements/Tenure_Bucket_Churn.png)
-
 - Customers in the **0–3 months** group churn the most, with a rate of **56.80%**, despite being only **14.92%** of the customer base.
 - **4–12 months** tenure has a churn rate of **38.77%**.
 - Churn steadily drops as tenure increases: **28.71%** for **13–24 months**, and just **14.04%** for **25+ months**.
@@ -83,9 +81,20 @@ The overall churn rate for Velynx stands at 26.54%. The analysis shows that seni
 
 ### Service Types
 ![Banner](Elements/Services.png)
+### Service Type Comparison
+Fiber optic customers are nearly **2 times more likely** to churn than DSL customers.  
+- Fiber optic churn rate: **41.89%**  
+- DSL churn rate: **19.44%**  
+- Cable churn rate: **15.44%**  
+-This indicates that fiber optic customers may face specific issues — such as pricing, service quality, or competition, that should be investigated and addressed.
 
 ### Payment
 ![Banner](Elements/Payment_Method.png)
+- Electronic check users make up **33.56%** of the customer base and have the **highest churn rate at 45.29%**.  
+- Mailed check users account for **21.91%** of customers and show the **lowest churn rate at 18.28%**.  
+- Bank transfer users make up **22.91%** with a churn rate of **16.85%**.  
+- Credit card users represent **21.62%** with a churn rate of **15.03%**.   
+-Electronic check customers are **over 2.5 times more likely** to churn compared to credit card customers (45.29% vs. 15.03%). This suggests that customers using electronic checks may represent a more price-sensitive or less loyal segment, making them a prime target for retention incentives.
 
 ## Insights to Action 
 
