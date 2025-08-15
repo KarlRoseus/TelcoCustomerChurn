@@ -34,6 +34,8 @@ The overall churn rate for Velynx stands at 26.54%. The analysis shows that seni
 ### Customer Demographics
 ![Banner](Elements/Demographics.png)
 
+### Customer Churn Rate
+
 | Category            | Total Customers | Churned Customers | Churn Rate (%) |
 |---------------------|----------------:|------------------:|---------------:|
 | Male                |           3,555 |               930 |          26.16 |
