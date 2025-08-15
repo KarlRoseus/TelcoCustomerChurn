@@ -97,5 +97,29 @@ Fiber optic customers are nearly **2 times more likely** to churn than DSL custo
 - Electronic check customers are **over 2.5 times more likely** to churn compared to credit card customers (45.29% vs. 15.03%). This suggests that customers using electronic checks may represent a more price-sensitive or less loyal segment, making them a prime target for retention incentives.
 
 ## Insights to Action 
+ **Target Senior Citizens with Retention Offers**  
+  - Seniors churn at **41.68%**, far above the overall rate.  
+  - Provide loyalty discounts, senior-friendly service plans, and implement early engagement strategies to            proactively address customer needs and mitigate the risk of churn before it occurs.
+
+- **Focus on Customers Without Dependents**  
+  - No-dependent customers churn at **32.55%**, compared to just **6.52%** for those with dependents.  
+  - Create premium solo plans, flexible service options, or exclusive perks designed for individuals to boost         engagement and loyalty.
+
+- **Address Month-to-Month Contract Holders**  
+  - Churn is **over 17 times higher** for month-to-month vs. two-year contracts.  
+  - Incentivize switching from shorter-term contracts to longer-term contracts with discounts or free upgrades.
+
+- **Onboard New Customers More Effectively**  
+  - The first 3 months see the **highest churn at 56.80%**.  
+  - Introduce welcome offers, check-in calls, and usage tips during the onboarding period.
+
+- **Reconsider Fiber Optic Retention Strategies**  
+  - Fiber customers churn more than DSL or Cable users.  
+  - Conduct targeted surveys and exit interviews with fiber customers to identify recurring issues in pricing,        performance, and service interactions. Use this feedback to guide network upgrades, adjust pricing models,        and refine customer support touchpoints for higher satisfaction and retention
+
+- **Reduce Electronic Check Churn**  
+  - Electronic check users churn at **45.29%**, over 2.5× higher than credit card customers.  
+  - Promote auto-pay discounts for credit/debit or bank transfers to encourage payment method changes.
+
 
 
