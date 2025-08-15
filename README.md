@@ -34,6 +34,18 @@ The overall churn rate for Velynx stands at 26.54%. The analysis shows that seni
 ### Customer Demographics
 ![Customer Demographics](Elements/Demographics.png)
 
+**Customer Distribution (Graph)**
+- The customer base is nearly balanced in terms of gender:
+  - Male: **50.48%**
+  - Female: **49.52%**
+- Singles make up a slightly larger portion (**51.7%**) compared to married customers (**48.3%**).
+- A large majority of customers are:
+  - Without dependents: **76.9%**
+  - Non-senior citizens: **83.79%**
+- Smaller portions of the customer base include:
+  - Senior citizens: **16.21%**
+  - Customers with dependents: **23.1%**
+
 ### Customer Demographic Churn Rate
 
 | Category            | Total Customers | Churned Customers | Churn Rate (%) |
@@ -47,7 +59,13 @@ The overall churn rate for Velynx stands at 26.54%. The analysis shows that seni
 | Senior Citizen      |           1,142 |               476 |          41.68 |
 | Non-Senior Citizen  |           5,901 |             1,393 |          23.61 |
 
-
+**Churn Rate by Demographic**
+- Gender appears to have little impact on churn, with similar rates for:
+  - Males: **26.16%**
+  - Females: **26.92%**
+- Senior citizens show the highest churn rate (**41.68%**), far exceeding non-senior customers (**23.61%**).
+- Customers without dependents churn at **32.55%**, compared to just **6.52%** for those with dependents.
+- Single customers experience a churn rate of **32.96%**, much higher than married customers (**19.66%**).
 
 ### Contract and Tenure
 ![Banner](Elements/Contract_Type.png)
