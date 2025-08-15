@@ -86,7 +86,7 @@ Fiber optic customers are nearly **2 times more likely** to churn than DSL custo
 - Fiber optic churn rate: **41.89%**  
 - DSL churn rate: **19.44%**  
 - Cable churn rate: **15.44%**  
--This indicates that fiber optic customers may face specific issues — such as pricing, service quality, or competition, that should be investigated and addressed.
+- This indicates that fiber optic customers may face specific issues — such as pricing, service quality, or competition, that should be investigated and addressed.
 
 ### Payment
 ![Banner](Elements/Payment_Method.png)
@@ -94,7 +94,7 @@ Fiber optic customers are nearly **2 times more likely** to churn than DSL custo
 - Mailed check users account for **21.91%** of customers and show the **lowest churn rate at 18.28%**.  
 - Bank transfer users make up **22.91%** with a churn rate of **16.85%**.  
 - Credit card users represent **21.62%** with a churn rate of **15.03%**.   
--Electronic check customers are **over 2.5 times more likely** to churn compared to credit card customers (45.29% vs. 15.03%). This suggests that customers using electronic checks may represent a more price-sensitive or less loyal segment, making them a prime target for retention incentives.
+- Electronic check customers are **over 2.5 times more likely** to churn compared to credit card customers (45.29% vs. 15.03%). This suggests that customers using electronic checks may represent a more price-sensitive or less loyal segment, making them a prime target for retention incentives.
 
 ## Insights to Action 
 
